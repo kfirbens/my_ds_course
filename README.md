@@ -1,4 +1,4 @@
-# my_ds_course
+# My DS Course
 
 ### This is my first repository
 
